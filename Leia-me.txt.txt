@@ -1,0 +1,29 @@
+Análise Estratégica de Market Share: Delivery Santo André 2026
+
+
+Desenvolvimento de um ecossistema de dados ponta-a-ponta para monitoramento de faturamento e presença de mercado das principais plataformas de delivery (iFood, 99Food e Keeta) na região do ABC Paulista. 
+O projeto utiliza automação em Python para simulação de cenários e Power BI para suporte à tomada de decisão executiva.
+
+
+Linguagem: Python 3.13 (Bibliotecas: Pandas) para engenharia e geração de dados sintéticos.
+
+Ambiente: VS Code integrado com Git para controle de versão e organização de scripts.
+
+Data Prep: Power Query para normalização, tratamento de cabeçalhos e tipagem de dados.
+
+Visualização: Power BI Desktop com filtros dinâmicos e análise de faturamento por bairro.
+
+
+Visão Regional: Mapeamento de performance nos bairros Bangu, Campestre, Casa Branca, Centro e Jardim.
+
+Liderança de Mercado: Identificação do Market Share real, com o iFood detendo 52,6% do faturamento total no período analisado.
+
+Flexibilidade de Análise: Implementação de segmentação de dados que permite ao gestor filtrar resultados por bairro ou categoria de produto (Hambúrguer, Pizza, Japonesa, etc.) instantaneamente.
+
+
+Visão de Infraestrutura: Diferente de análises estáticas, este projeto foi construído sobre uma base de automação em Python, demonstrando competência técnica em configuração de ambientes e manipulação de arquivos CSV.
+
+Foco em Cloud: O projeto foi estruturado seguindo princípios de escalabilidade, pronto para ser integrado a arquiteturas de nuvem (AWS), onde o script Python atuaria como um produtor de dados para buckets S3.
+
+
+Resolução de Problemas: Aplicação de conhecimentos de suporte e redes para garantir a integridade do fluxo de dados desde a origem até o dashboard final.
